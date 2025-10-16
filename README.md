@@ -78,9 +78,12 @@ Luego vuelve a ejecutar el programa.
 
 ## 📚 6. Créditos del Taller
 
-Taller: Introducción a Visual Studio Code con Java
-Duración: 1 hora
-Instructor: Sofia Vargas, Saul Palazuelos
+Taller: Introducción a Visual Studio Code con Java. 
+
+Duración: 1 hora 
+
+Instructor: Sofia Vargas, Saul Palazuelos 
+
 Herramientas: GitHub Codespaces + VS Code + Java 21
 
 
