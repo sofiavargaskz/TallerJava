@@ -18,7 +18,7 @@ En esta práctica aprenderás cómo usar un **entorno de desarrollo en la nube**
 
 Sigue estos pasos con calma 👇
 
-1. Entra a este repositorio 👉 [**(enlace de tu repositorio aquí)**](https://github.com/TU_USUARIO/taller-java-vscode)  
+1. Entra a este repositorio 👉 [**(enlace aquí)**](https://github.com/sofiavargaskz/TallerJava)  
 2. Haz clic en el botón verde **"Use this template"** → **"Create a new repository"**  
 3. Escribe un nombre para tu copia (por ejemplo, `mi-taller-java`)  
 4. Una vez creado, entra a tu nuevo repositorio  
